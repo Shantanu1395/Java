@@ -122,6 +122,12 @@ package com.OptimalStructures.example.OptimalStructures.SampleClasses.Collection
  *              2.1.1 TreeMap - Underlying DS is RB tree(keys are inserted according to some sorting order)
  *                              Only 1 null insertion allowed
  *                              By default keys sorted by increasing order
+ *
+ *---------------------------------------------------------------------------
+ *
+ *  Collections Class
+ *      1.sort(List l)
+ *      2.binarySearch(List l, Object obj)
  * */
 public class Collections {
 }
